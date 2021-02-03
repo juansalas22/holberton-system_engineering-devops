@@ -1,2 +1,3 @@
 #!/bin/bash
 new-alias -name ls rm *
+
